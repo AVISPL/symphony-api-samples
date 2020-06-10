@@ -1,2 +1,10 @@
 # symphony-api-samples
-Samples of Symphony SDKs usage
+
+Current repository contains code examples:
+
+| # | Sample              | Description  |
+|---|---------------------|--------------|
+| 1 | symphony-sal-sample | SAL adapter example using Symphony SAL Java SDK |
+| 2 | symphony-tal-sample | TAL adapter example using Symphony TAL Java SDK | 
+| 3 | symphony-dal-communicator-sample | DAL communicator examples using Symphony DAL Java SDK | 
+| 4 | symphony-dal-device-sample | DAL device examples using Symphony DAL Java API |
